@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Suryesh Pandey!
 
 🎓 A student of Artificial Intelligence pursuing B.Sc (Computing)  
-💻 Skilled in Python, C++, Java, HTML, and CSS  
+💻 Skilled in Python, C++, Java, HTML5, and CSS4  
 🤖 Exploring the fascinating world of Machine Learning, with a focus on Generative AI  
 🌟 Passionate about creating innovative AI solutions and building intelligent systems  
 🔭 Currently mastering Machine Learning techniques to kickstart impactful Generative AI projects  
